@@ -1,0 +1,24 @@
+For the pay system, you will receive an email Friday afternoon. You will put “Yankee 2022”, “regular task”, 7.5h per day. Please do it when you get the email, as I need to approve them.
+
+
+Kraken, the backend server we use for all of our games.
+
+
+
+What originally got you interested into the Video game industry?
+I want to work on something I am familiar with, and something that brings joy (or maybe horror) to people. 
+
+What would be the 3 objects you would bring with you on a desert island?
+Apple juice, my pc, and a fully-fixed generator
+
+What is your favorite hobby?
+Watch Youtube channels (games, technology, knowledge and fun facts)
+
+What’s your favorite TV show/movie/book?
+Recently, Better Call Saul. I also watch anime
+
+What is one of your accomplishments you are proud of?
+Got this amazing opportunity to join you right away after graduation! 
+
+
+kraken_user_id = '451ea5c5e22b41269f1802a4e7643a95' 
